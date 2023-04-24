@@ -1,19 +1,30 @@
-﻿CALCULATOR - Calculador de gastos de viagem
+# Calculadora de Gastos de Viagem
 
-• Este é um programa que calcula o valor gasto em uma viagem de carro, com base na distância percorrida, tipo de combustível escolhido e média de consumo do veículo. O usuário deve informar a distância em quilômetros, selecionar o tipo de combustível (gasolina ou álcool), informar a média de consumo do veículo na cidade e na estrada em km/l e informar o valor do combustível.
+Este projeto é uma calculadora de gastos de viagem que ajuda o usuário a calcular o custo total da viagem com base na distância a ser percorrida, tipo de combustível escolhido e média de consumo do veículo.
 
-• O programa foi desenvolvido em Java e utiliza a classe Scanner para obter dados do usuário.
+## Como utilizar
 
-Como usar:
+1. Execute o programa "calculoViagem.java".
+2. Insira a distância da viagem em quilômetros.
+3. Selecione o tipo de combustível utilizado (Gasolina ou Álcool).
+4. Insira a média de consumo do veículo na cidade e na estrada.
+5. Insira o valor do combustível escolhido.
+6. O programa irá calcular a média geral do veículo, o valor gasto em combustível e mostrar o resultado ao usuário.
+7. O programa irá perguntar se o usuário deseja fazer outro cálculo ou encerrar o programa.
 
-    1_Baixe o arquivo "calculoViagem.java"
-    2_Compile o arquivo em um ambiente Java utilizando o comando "javac calculoViagem.java"
-    3_Execute o programa utilizando o comando "java calculoViagem"
-    4_Siga as instruções do programa para informar os dados da viagem
+## Requisitos
 
-FUNCIONAMENTO:
+- JDK 8 ou superior
+- IDE compatível com Java (opcional)
 
-• Ao ser executado, o programa apresenta uma mensagem de boas-vindas e solicita ao usuário que informe se deseja fazer um novo cálculo ou não. Em seguida, o usuário deve informar a distância em quilômetros e selecionar o tipo de combustível. Dependendo da escolha do usuário, o programa solicita a média de consumo do veículo na cidade e na estrada e o valor do combustível.
+## Funcionamento
 
-• Com base nas informações fornecidas pelo usuário, o programa realiza o cálculo do valor gasto em combustível na viagem e apresenta o resultado na tela.
-• O usuário pode escolher fazer um novo cálculo ou encerrar o programa.
+O programa começa imprimindo uma mensagem de boas-vindas ao usuário e perguntando se ele deseja fazer um novo cálculo. Caso a resposta seja afirmativa, o usuário deverá inserir a distância a ser percorrida em quilômetros e selecionar o tipo de combustível utilizado (Gasolina ou Álcool).
+
+Em seguida, o usuário deverá inserir a média de consumo do veículo na cidade e na estrada, bem como o valor do combustível escolhido. Com esses dados, o programa irá calcular a média geral do veículo e o valor gasto em combustível durante a viagem.
+
+O resultado será mostrado ao usuário, e o programa perguntará se ele deseja fazer outro cálculo ou encerrar o programa.
+
+## Autor
+
+Este programa foi desenvolvido por [Juliano de Souza].
