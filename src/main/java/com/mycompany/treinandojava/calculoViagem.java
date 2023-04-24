@@ -3,7 +3,7 @@ package com.mycompany.treinandojava;
 
 import java.util.Scanner;
 
-public class TreinandoJava {
+public class calculoViagem {
 
     public static void main(String[] args) {
 
@@ -39,7 +39,8 @@ public class TreinandoJava {
 
                         double mediaPadrao = (mediaCidade + mediaEstrada) / 2;
                         double valorEmCombustivel = (distanciaKm / mediaPadrao) * combustivel;
-                        System.out.println("A média geral do veiculo é de " + mediaPadrao + "km por litro na Gasolina :");
+                        System.out
+                                .println("A média geral do veiculo é de " + mediaPadrao + "km por litro na Gasolina :");
                         System.out.printf("O valor gasto na viagem é de R$ %.2f.%n", valorEmCombustivel);
 
                     } else {
