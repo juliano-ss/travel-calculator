@@ -1,6 +1,6 @@
 # Calculadora de Gastos de Viagem
 
-Este projeto é uma calculadora de gastos de viagem que ajuda o usuário a calcular o custo total da viagem com base na distância a ser percorrida, tipo de combustível escolhido e média de consumo do veículo.
+Este projeto é uma calculadora de gastos de viagem que ajuda o usuário a calcular o custo total da viagem com base na distância a ser percorrida, tipo de combustível escolhido e média de consumo do veículo, e em diferentes ambientes como cidade e pista.
 
 ## Como utilizar
 
