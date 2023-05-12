@@ -9,7 +9,7 @@ Este projeto é uma calculadora de gastos de viagem que ajuda o usuário a calcu
 3. Selecione o tipo de combustível utilizado (Gasolina ou Álcool).
 4. Insira a média de consumo do veículo na cidade e na estrada.
 5. Insira o valor do combustível escolhido.
-6. O programa irá calcular a média geral do veículo, o valor gasto em combustível e mostrar o resultado ao usuário.
+6. O programa irá calcular a média geral do veículo, o valor gasto em cada combustível e mostrar o resultado ao usuário.
 7. O programa irá perguntar se o usuário deseja fazer outro cálculo ou encerrar o programa.
 
 ## Requisitos
