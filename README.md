@@ -27,4 +27,4 @@ O resultado será mostrado ao usuário, e o programa perguntará se ele deseja f
 
 ## Autor
 
-Este programa foi desenvolvido por [Juliano de Souza].
+Este programa foi desenvolvido por [Juliano de Souza], no intuito de estudos.
