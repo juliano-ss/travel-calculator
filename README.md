@@ -14,7 +14,7 @@ Este projeto é uma calculadora de gastos de viagem que ajuda o usuário a calcu
 
 ## Requisitos
 
-- JDK 8 ou superior
+- JDK 8 ou superior.
 - IDE compatível com Java (opcional)
 
 ## Funcionamento
